@@ -1,0 +1,10 @@
+{
+  "name": "base-html-css-js",
+  "version": "1.0.0",
+  "description": "base project with empty HTML, CSS, and JS files",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo no build"
+  },
+  "keywords": []
+}
